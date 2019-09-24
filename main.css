@@ -30,19 +30,18 @@ h1, h2 {
     background-image: url('vulcano5.jpg');
     background-size: cover;   
     outline: 1px solid white;
-    
 }
 
 
 .box2 {
     position: absolute;
-    margin-top: 130px; /*-7px;*/
-    margin-left:-815px; /*190px;*/
+    margin-top: 130px; 
+    margin-left:-815px; 
     font-size: 30px;
 }
 
  .box2-animation{
-    animation: ballshot 5s linear 2s 1 normal none;
+    animation: ballshot 5s linear 1s 1 normal none;
 } 
 
 .box-gap{
