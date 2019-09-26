@@ -1,6 +1,5 @@
 let counter;
 
-
 const makeShot = function (){
     const myEmoti = ['⚽', '⚾','🥎','🏀','🏐','🏈','🏉','🎱','💣','☢️']; 
 
